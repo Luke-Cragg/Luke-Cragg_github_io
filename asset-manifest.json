@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/lc-portfolio/static/css/main.ceb030eb.css",
+    "main.js": "/lc-portfolio/static/js/main.b30dee87.js",
+    "static/js/787.2db6d3bb.chunk.js": "/lc-portfolio/static/js/787.2db6d3bb.chunk.js",
+    "static/media/Tech-Backg2.jpg": "/lc-portfolio/static/media/Tech-Backg2.11cf30d17a3d13490526.jpg",
+    "static/media/Weather-App.jpg": "/lc-portfolio/static/media/Weather-App.17268534635c4da8a85e.jpg",
+    "static/media/dockd-1.png": "/lc-portfolio/static/media/dockd-1.5ccca09d0bed564612d0.png",
+    "static/media/LComputing-1.png": "/lc-portfolio/static/media/LComputing-1.dd44562bdd49d4dc7958.png",
+    "index.html": "/lc-portfolio/index.html",
+    "main.ceb030eb.css.map": "/lc-portfolio/static/css/main.ceb030eb.css.map",
+    "main.b30dee87.js.map": "/lc-portfolio/static/js/main.b30dee87.js.map",
+    "787.2db6d3bb.chunk.js.map": "/lc-portfolio/static/js/787.2db6d3bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ceb030eb.css",
+    "static/js/main.b30dee87.js"
+  ]
+}
